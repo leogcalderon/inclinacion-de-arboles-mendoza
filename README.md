@@ -1,5 +1,7 @@
 # inclinacion-de-arboles-mendoza
 
+
+![Optional Text](https://cdn.lavoz.com.ar/sites/default/files/styles/width_1072/public/galeria_multimedia/Mendoza_1.jpeg)
 ¿Se puede predecir el grado de peligrosidad de una árbol dado sus características?
 
 La Secretaría de Ambiente y Desarrollo Sustentable de la Ciudad de Mendoza Argentina, destaca a la cultura del árbol tanto como patrimonio cultural y como un aliado indispensable del progreso y el desarrollo de la vida en la provincia de Mendoza. Sin embargo, todos sabemos del peligro que suponen los arboles durante las temporadas de fuertes tormentas y sobre todo la época de viento Zonda. El grado de inclinación de un árbol es un factor fundamental a tener en cuenta a la hora de prevenir los posibles accidentes ocasionados por los fenómenos meteorológicos severos a los que muchas veces esta sujeta la provincia de Mendoza.
